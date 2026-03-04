@@ -4,4 +4,4 @@ Unity's email lists all removed assets but doesn't show which ones you own.
 
 This tool compares your exported asset list against the removal list.
 
-https://uarc.fieldof.vision
+http://uarc.fieldof.vision
